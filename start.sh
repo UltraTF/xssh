@@ -1,5 +1,5 @@
-apt-get install git
-apt-get install golang
+apt-get install git -y
+apt-get install golang -y
 
 #!/bin/bash
 source /app/config.sh
